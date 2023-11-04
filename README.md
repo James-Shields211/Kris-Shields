@@ -1,4 +1,4 @@
-- Hi, I’m @Kris-Shields
+- Hi, I’m James Shields (preferred name Kris, but either works)
 - I’m interested in game design (programming at Bungie eventually)
 - I’m currently learning Basic/Advanced Python
 -  Email: kris.shields211@gmail.com
